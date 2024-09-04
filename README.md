@@ -1,1 +1,1 @@
-***A Telegram mini app app***
+***A Telegram mini app***
