@@ -1,2 +1,2 @@
-# Translator-TG-mini-app
-# TL-TG-mini-app
+#Oromic Translate
+***A Telegram mini app app***
